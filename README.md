@@ -2,8 +2,6 @@
 
 A simple but handy Google Chrome extension to loop through tabs at given time (in seconds).
 
-My case of use is cycle through screens of Monitors and Charts for Analytics and Infrastructure.
-
 ![screenshot](img/sshot.png)
 
 ————
