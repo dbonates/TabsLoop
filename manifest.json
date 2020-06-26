@@ -1,0 +1,19 @@
+{
+    "name": "Tabs Loop",
+    "version": "1.0",
+    "description": "cicle through tabs at given time (in seconds).",
+    "manifest_version": 2,
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "browser_action": {
+        "default_icon": "logo.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "declarativeContent",
+        "storage",
+        "tabs"
+    ]
+}
